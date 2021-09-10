@@ -22,7 +22,7 @@ else
     PYTHON_PATH=$(which python3)
 fi
 
-
+  
 
 #-----------------------------------
 # System dependencies installation
